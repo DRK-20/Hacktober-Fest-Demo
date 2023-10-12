@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Anaswara Syam
 
-Batch:- AIE
+Batch:- CSE B
 
-Catchphrase:- Yo!
+Catchphrase:- Hi
