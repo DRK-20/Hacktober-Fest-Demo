@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Gouri K
 
-Batch:- AIE
+Batch:- CSE
 
-Catchphrase:- Yo!
+Catchphrase:- Hakuna Matata!
