@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Varshenee
 
-Batch:- AIE
+Batch:- CSE
 
-Catchphrase:- Yo!
+Catchphrase:- I wanna sleep.
