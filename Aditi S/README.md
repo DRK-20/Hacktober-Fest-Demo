@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Aditi S
 
-Batch:- AIE
+Batch:- CSE
 
-Catchphrase:- Yo!
+Catchphrase:-Welcome to Ootty.Nice to meet you!!!
