@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Swaminathan
 
-Batch:- AIE
+Batch:- CSE B
 
-Catchphrase:- Yo!
+Catchphrase:- SIUU!!
