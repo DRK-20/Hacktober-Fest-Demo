@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Judith Ann Benny
 
-Batch:- AIE
+Batch:-CSE C
 
-Catchphrase:- Yo!
+Catchphrase:- Blablablaaa
