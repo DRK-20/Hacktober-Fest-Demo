@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Dwived Krishna P
 
-Batch:- AIE
+Batch:- RAI
 
-Catchphrase:- Yo!
+Catchphrase:- Scene!
