@@ -1,6 +1,6 @@
 # Hacktober-Fest-Demo
-Name:- Dhruv R Krishnan
+Name:- Shreya Shibu
 
-Batch:- AIE
+Batch:- RAE
 
-Catchphrase:- Yo!
+Catchphrase:- How's the josh?
